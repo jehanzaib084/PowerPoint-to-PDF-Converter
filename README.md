@@ -35,19 +35,10 @@ Convert PowerPoint files to PDF effortlessly with this Python app. Developed by 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/PowerPoint-to-PDF-Converter.git
-Navigate to the project directory:
-
-Copy code
-cd PowerPoint-to-PDF-Converter
-Run the application:
-
-bash
-Copy code
-python main.py
-License
+   git clone https://github.com/jehanzaib084/PowerPoint-to-PDF-Converter.gits
+##License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+##Acknowledgments
 Thanks to comtypes for providing a Python interface to COM.
 Feel free to contribute, report issues, or suggest improvements!
